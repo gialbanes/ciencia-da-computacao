@@ -398,7 +398,7 @@ h1{
     margin-top: 80px;
 }
 .carousel-inner{
-    height: 800px;
+    height: 100%;
     width: 100%;
 }
 
